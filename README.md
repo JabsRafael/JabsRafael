@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contato@jabsrafael.com.br**
 
-- 📄 Know about my experiences [https://www.jabsrafael.com.br/files/Jabison-Rafael_CV.pdf](https://www.jabsrafael.com.br/files/Jabison-Rafael_CV.pdf)
+- 📄 Know about my experiences [https://www.jabsrafael.com.br/](https://www.jabsrafael.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

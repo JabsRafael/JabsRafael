@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jabison Rafael</h1>
-<h3 align="center">I`m an Full Stack Software Developer from Brazil</h3>
+<h3 align="center">I`m an Security/Infraestructure Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabsrafael&label=Profile%20views&color=0e75b6&style=flat" alt="jabsrafael" /> </p>
 
-- 🔭 I’m currently working on **Ativo Isotópico, SRE/DevOps**
+- 🔭 I’m currently working on **Capim, IPEN**
 
-- 🌱 I’m currently learning **AWS, GCP, Kubernetes, Terraform, Docker**
+- 🌱 I’m currently learning **Security, GCP, Kubernetes, Terraform, Docker**
 
 - 👯 I’m looking to collaborate on **DevOps / Cybersec projects**
 
-- 💬 Ask me about **C#, Python, Go, VisualBasic, .NET**
+- 💬 Ask me about **Security, C#, Python, Go, VisualBasic**
 
 - 📫 How to reach me **contato@jabsrafael.com.br**
 
